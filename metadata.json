@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra — Игра Роско Загадок (Рус-Исп)",
+  "description": "Интерактивная игра Пасапалабра с колесом букв (El Rosco) для изучения испанского языка по загадкам с русским переводом и ответами без ограничения по времени.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
